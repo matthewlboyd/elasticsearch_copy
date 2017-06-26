@@ -1,4 +1,4 @@
-'# Prerequisites
+# Prerequisites
 Required python modules
 - [elasticsearch](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html)
 - [argparse](https://docs.python.org/3/library/argparse.html)
